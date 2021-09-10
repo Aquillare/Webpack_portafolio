@@ -2,7 +2,7 @@
   "name": "js-portfolio",
   "version": "1.0.0",
   "description": "A minimal portfolio with Vanilla JavaScript",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --mode production --config webpack.config.js",
@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gndx/js-portfolio.git"
+    "url": "https://github.com/Aquillare/Webpack_portafolio.git"
   },
   "keywords": [
     "javascript",
     "html",
     "css"
   ],
-  "author": "oscar barajas <oscar@gndx.dev>",
+  "author": "Miguel Aguilar",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gndx/js-portfolio/issues"
+    
   },
   "homepage": "https://github.com/gndx/js-portfolio#readme",
   "devDependencies": {
